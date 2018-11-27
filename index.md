@@ -2,13 +2,12 @@
 layout: default
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Aigars Dzerviniks</title>
+  <title>NO SELF</title>
 
   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:700&amp;subset=latin-ext" rel="stylesheet">
 
@@ -333,20 +332,8 @@ layout: default
 </head>
 <body>
   <main>
-    <h1 class="glitch" data-text="Aigars Dzerviniks">Aigars Dzerviniks</h1>
-    <p class="description">Web developer</p>
-
-    <section class="social">
-      <a href="https://twitter.com/aigarsdz" title="@aigarsdz on Twitter" target="_blank">
-        <i class="fa fa-twitter" aria-hidden="true"></i>
-      </a>
-      <a href="https://github.com/aigarsdz" title="@aigarsdz on GitHub" target="_blank">
-        <i class="fa fa-github" aria-hidden="true"></i>
-      </a>
-      <a href="https://instagram.com/aigarsdz" title="@aigarsdz on Instagram" target="_blank">
-        <i class="fa fa-instagram" aria-hidden="true"></i>
-      </a>
-    </section>
+    <h1 class="glitch" data-text="Aigars Dzerviniks">NO SELD</h1>
+    <p class="description"></p>
   </main>
 
   <script src="https://use.fontawesome.com/28fd99f1f0.js"></script>
