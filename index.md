@@ -332,7 +332,7 @@ layout: default
 </head>
 <body>
   <main>
-    <h1 class="glitch" data-text="Aigars Dzerviniks">NO SELD</h1>
+    <h1 class="glitch" data-text="NO SELF">NO SELF</h1>
     <p class="description"></p>
   </main>
 
