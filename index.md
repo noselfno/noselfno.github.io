@@ -340,10 +340,8 @@ layout: default
 </body>
 </html>
 
-### Teaser 1
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gOU9IOtHytY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Aos trilheiros...
 
-Qualquer coisa pode ser escrita nessa página usando a [formatação Markdown](https://support.zendesk.com/hc/pt-br/articles/203691016-Formata%C3%A7%C3%A3o-de-texto-com-Markdown). [Este pad do HackMd](https://hackmd.io/BgvXSk-KQaemjd428fUmxA) pode ser usado para rascunhar aquilo que alimentará esta página, que *intuita* dar mais visibilidade ao NO SELF. Vamos co-criar esta página com informações sobre esta exploração (incluindo imagens, vídeos, etc).
+Esta é uma página criada com a *intenção* de dar mais visibilidade ao NO SELF. Ela já existe e está bonitona, agora precisa de mais informações. Qualquer coisa pode ser escrita aqui usando a [formatação Markdown](https://support.zendesk.com/hc/pt-br/articles/203691016-Formata%C3%A7%C3%A3o-de-texto-com-Markdown), mas existe um processo mais técnico pra fazer o up desse conteúdo. Enquanto o conhecimento sobre como fazer esse upload não é compartilhado, [este pad do HackMd](https://hackmd.io/BgvXSk-KQaemjd428fUmxA) pode ser usado para rascunhar aquilo que residirá aqui. Assim, vamos co-criar esta página com informações sobre esta exploração (incluindo imagens, vídeos, etc), e com detalhes sobre como fluxos podem ser gerados para dar continuidade ao que já vem se materializando.
