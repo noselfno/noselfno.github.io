@@ -7,7 +7,7 @@ layout: default
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>NO SELF</title>
+  <title>NO SELF : UMA FASCINANTE EXPLORAÇÃO AUDIOVISUAL POR ENTRE O NÓ EM NÓS</title>
 
   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:700&amp;subset=latin-ext" rel="stylesheet">
 
@@ -332,7 +332,7 @@ layout: default
 </head>
 <body>
   <main>
-    <h1 class="glitch" data-text="NO SELF">NO SELF</h1>
+    <h1 class="glitch" data-text="NO SELF : UMA FASCINANTE EXPLORAÇÃO AUDIOVISUAL POR ENTRE O NÓ EM NÓS">NO SELF : UMA FASCINANTE EXPLORAÇÃO AUDIOVISUAL POR ENTRE O NÓ EM NÓS</h1>
     <p class="description"></p>
   </main>
 
