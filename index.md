@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| ... como realizar um curta-metragem com um roteiro, casting, produção e recursos abertos a toda & qualquer pessoa ? como fazer da realização deste curta, uma exploração para descondicionar o modo-de-fazer .... o audiovisual em si ? como fazer dos conteúdos gerados para realização deste curta, um material #opensource de altíssima qualidade disponível para todo tipo de usufruto comum ? como fazer do usufruto comum do material disponível formas variadas de geração & acesso contínuo de recursos ( equipamentos, tecnologias, locações e moedas diversas ) ... ? |
+... como realizar um curta-metragem com um roteiro, casting, produção e recursos abertos a toda & qualquer pessoa ? como fazer da realização deste curta, uma exploração para descondicionar o modo-de-fazer .... o audiovisual em si ? como fazer dos conteúdos gerados para realização deste curta, um material #opensource de altíssima qualidade disponível para todo tipo de usufruto comum ? como fazer do usufruto comum do material disponível formas variadas de geração & acesso contínuo de recursos ( equipamentos, tecnologias, locações e moedas diversas ) ... ?
 
 <html>
 <head>
