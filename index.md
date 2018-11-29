@@ -2,12 +2,14 @@
 layout: default
 ---
 
+| ... como realizar um curta-metragem com um roteiro, casting, produção e recursos abertos a toda & qualquer pessoa ? como fazer da realização deste curta, uma exploração para descondicionar o modo-de-fazer .... o audiovisual em si ? como fazer dos conteúdos gerados para realização deste curta, um material #opensource de altíssima qualidade disponível para todo tipo de usufruto comum ? como fazer do usufruto comum do material disponível formas variadas de geração & acesso contínuo de recursos ( equipamentos, tecnologias, locações e moedas diversas ) ... ? |
+
 <html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>NO SELF : UMA FASCINANTE EXPLORAÇÃO AUDIOVISUAL POR ENTRE O NÓ EM NÓS</title>
+  <title>NO SELF</title>
 
   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:700&amp;subset=latin-ext" rel="stylesheet">
 
@@ -332,13 +334,16 @@ layout: default
 </head>
 <body>
   <main>
-    <h1 class="glitch" data-text="NO SELF : UMA FASCINANTE EXPLORAÇÃO AUDIOVISUAL POR ENTRE O NÓ EM NÓS">NO SELF : UMA FASCINANTE EXPLORAÇÃO AUDIOVISUAL POR ENTRE O NÓ EM NÓS</h1>
+    <h1 class="glitch" data-text="NO SELF">NO SELF</h1>
     <p class="description"></p>
   </main>
 
   <script src="https://use.fontawesome.com/28fd99f1f0.js"></script>
 </body>
 </html>
+
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gOU9IOtHytY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
